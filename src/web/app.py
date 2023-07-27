@@ -9,8 +9,7 @@ app.teardown_appcontext(close_db)
 
 @app.route("/")
 def index():
-    while True:
-        print('ff')
-    return "indexhhg.html"
+    
+    return "indexhhgffttggg.html"
 
 
