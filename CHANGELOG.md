@@ -1,3 +1,15 @@
+# v0.0.6 (Thu Jul 27 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update app.py ([@saimasartej](https://github.com/saimasartej))
+
+#### Authors: 1
+
+- [@saimasartej](https://github.com/saimasartej)
+
+---
+
 # v0.0.5 (Thu Jul 27 2023)
 
 #### ⚠️ Pushed to `main`
